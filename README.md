@@ -3,13 +3,6 @@
 # Online Book Store Database Queries
 
 
-create database online_book_store;
-use online_book_store;
-
-select * from books;
-select * from customers;
-select * from orders;
-
 ## Basic Questions
 
 ## 1) Retrieve all books in the "Fiction" genre:
