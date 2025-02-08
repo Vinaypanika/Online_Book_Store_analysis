@@ -1,7 +1,5 @@
 # Online_Book_Store_analysis
 
-# Online Book Store Database Queries
-
 
 ## Basic Questions
 
